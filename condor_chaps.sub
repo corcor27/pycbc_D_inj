@@ -1,4 +1,4 @@
-executable     =/home/c1324200/pycbc_Pv2_inj/frame_inference.sh
+executable     =/home/c1324200/pycbc_D_inj/frame_inference.sh
 universe       = vanilla
 getenv         = True
 output         = test.out
