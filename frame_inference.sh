@@ -102,3 +102,4 @@ pycbc_inference --verbose \
     --checkpoint-interval ${N_CHECKPOINT} \
     --checkpoint-fast \
     --nprocesses ${NPROCS}
+    --disable-spin
